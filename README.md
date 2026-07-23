@@ -63,3 +63,39 @@
 ## 👨‍💻 About Me
 
 I enjoy working with data — understanding it, shaping it, and building things that make it useful.
+
+## 🔭 Current Focus
+
+- Building batch and real-time Data Engineering projects.
+- Improving my knowledge of Kafka, Spark, dbt and lakehouse architectures.
+- Learning data lineage, governance and production monitoring.
+
+## 📌 Featured Projects
+
+### 🔥 [Distributed Real-Time Social Firehose Analytics Lakehouse](https://github.com/dctk84/bluesky-pipeline)
+
+A distributed streaming data platform that ingests Bluesky Jetstream events, processes real-time metrics and stores analytical datasets in a lakehouse architecture.
+
+**Architecture:** Jetstream → Kafka → Spark Structured Streaming → MinIO/Iceberg → ClickHouse → Grafana
+
+**Tech:** Kafka, Spark, MinIO, Apache Iceberg, ClickHouse, Airflow, Grafana, Docker
+
+---
+
+### 📺 [YouTube Data Engineering Analytics Platform](https://github.com/dctk84/Youtube-pipeline)
+
+An automated ELT pipeline for tracking Data Engineering content across multiple YouTube channels and analysing historical growth over time.
+
+**Pipeline:** YouTube API → Raw JSON → PostgreSQL → Data Quality → Power BI
+
+**Tech:** Python, PostgreSQL, Airflow, Soda, pytest, Docker, GitHub Actions, Power BI
+
+---
+
+### 🛒 [Retail Analytics Data Warehouse](https://github.com/dctk84/anna-retail-dwh-project)
+
+A sanitized case study demonstrating the design of a retail analytical data warehouse for sales, inventory, profitability and store-performance reporting.
+
+**Features:** Dimensional modelling, incremental ETL, business KPI layer and executive dashboards
+
+**Tech:** SQL Server, Python, Power BI, DAX, dimensional modelling
