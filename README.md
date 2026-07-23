@@ -99,3 +99,46 @@ A sanitized case study demonstrating the design of a retail analytical data ware
 **Features:** Dimensional modelling, incremental ETL, business KPI layer and executive dashboards
 
 **Tech:** SQL Server, Python, Power BI, DAX, dimensional modelling
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=dctk84&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dctk84&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&disable_animations=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:kiendinh.data@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-kiendinh.data%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kien-dinh/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+I'm open to connecting with Data Engineers, Analytics Engineers and teams working on modern data platforms.
