@@ -6,7 +6,7 @@
   />
 </p>
 
-<h2 align="center">Hi, I'm Kien Dinh 👋</h2>
+<h2 align="center">Hey there, welcome to my corner of GitHub 👋</h2>
 
 <p align="center">
   I'm a data enthusiast who enjoys exploring, learning, and building meaningful things with data.
