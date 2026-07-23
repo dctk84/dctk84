@@ -60,3 +60,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
+## 👨‍💻 About Me
+
+I enjoy working with data — understanding it, shaping it, and building things that make it useful.
