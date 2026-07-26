@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./assets/phong_pixel_animation_2s_14fps.gif"
     alt="Kien Dinh - Data Engineering"
     width="100%"
   />
