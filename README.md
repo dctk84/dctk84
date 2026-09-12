@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/phong_pixel_animation_2s_14fps.gif"
+    src="assets/Debbie Balboa _ Photo.gif"
     alt="Kien Dinh - Data Engineering"
     width="100%"
   />
